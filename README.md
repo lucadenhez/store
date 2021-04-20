@@ -13,3 +13,5 @@ Feel free to **Direct Message** me on **Discord** at _lucaa#0001_
 
 
 ## Have fun using my store!
+
+[https://lucadenhez.github.io/store/](https://lucadenhez.github.io/store/)
