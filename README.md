@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Luca's Store!
 
-You can use the [editor on GitHub](https://github.com/lucadenhez/store/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a **ROBLOX** Clothing Store.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+_Made by the one and only @itsIucaa_ [Profile](https://www.roblox.com/users/1095063494/profile)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Have any clothing requests or questions?
 
-# Header 1
-## Header 2
-### Header 3
+Feel free to **Direct Message** me on **Discord** at _lucaa#0001_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucadenhez/store/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Have fun using my store!
